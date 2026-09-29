@@ -1,0 +1,142 @@
+date_time,source,sender,message,language,result,phishing_status,phishing_reasons,url,url_status,url_details
+2026-09-25 09:10:49,,test@gmail.com,Congratulations! Click https://example.com to claim your prizes,,Spam,Possible Phishing,Contains a web link; Suspicious phrase: claim your prize,https://example.com,Safe,"URL: https://example.com
+Status: Safe
+Malicious: 0
+Suspicious: 0
+Harmless: 63
+Undetected: 29"
+2026-09-25 11:40:30,,test@gmail.com,Congratulations! you have won a free prize of $1000. Click here now to Claim your reward: https://example.com,,Spam,Possible Phishing,Contains a web link; Suspicious phrase: click here; Suspicious phrase: claim your reward; Suspicious phrase: you have won; Suspicious phrase: free prize,https://example.com,Analysis Pending,"VirusTotal analysis is still processing.
+Analysis ID: u-0f115db062b7c0dd030b16878c99dea5c354b49dc37b38eb8846179c7783e9d7-f5503e99"
+2026-09-25 11:43:41,,test@gmail.com,Congratulations! you have won a free prize of $1000. Click here now to Claim your reward: https://example.com,,Spam,Possible Phishing,Contains a web link; Suspicious phrase: click here; Suspicious phrase: claim your reward; Suspicious phrase: you have won; Suspicious phrase: free prize,https://example.com,Safe,"URL: https://example.com
+Status: Safe
+Malicious: 0
+Suspicious: 0
+Harmless: 63
+Undetected: 29"
+2026-09-25 11:51:32,,test@gmail.com,"Hello, I will attend the college class tomorrow at 10 AM. please bring the project file.",,Ham,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-26 23:30:46,,test@gmail.com,Congratulation! you have won a free prize,,Spam,Possible Phishing,Suspicious phrase: you have won; Suspicious phrase: free prize,,No URL Found,Message me koi URL nahi mila.
+2026-09-26 23:32:18,,test@gmail.com,बधाई हो! आपने एक इनाम जीता है।,,Ham,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-26 23:32:54,,test@gmail.com,Aapne ek prize jeeta hai,,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-26 23:33:37,,test@gmail.com,"Aapne ek prize jeeta hai, link per click karo",,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:33:05,,test@gmail.com,Congratulations! You won a prize.,,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:34:40,,test@gmail.com,aap jeet chuke ho 50000 rupay please link ko click karo,,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:35:29,,test@gmail.com,bhai ko college aana hai kya,,Ham,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:36:05,,test@gmail.com,"आपने इनाम जीता है, अभी क्लिक करें",,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:36:42,,test@gmail.com,"आपने इनाम जीता है,",,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:36:58,,test@gmail.com,"आपने जीता है,",,Ham,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:52:17,,test@gmail.com,आपने इनाम जीता है।,Hindi,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 09:53:53,,test@gmail.com,"Aapne prize jeeta hai, link par click karo.",Hinglish,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 10:19:30,,test@gmail.com,आपने इनाम जीता है।,Hindi,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 10:19:56,,test@gmail.com,Congratulations! you won a prize,English,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 10:20:41,,test@gmail.com,"Aapne prize jeeta hai , link par click karo",Hinglish,Spam,No suspicious phishing pattern detected,,,No URL Found,Message me koi URL nahi mila.
+2026-09-27 22:25:48,Image,,"¥ © (91) WhatsApp Business x  @ New Tab x + > Ask Gemini = a
+
+€ © 23 web.wwhatsapp.com x & @ Action required ¢
+B WhatsApp : & Ragh Vendra (B Addtolist न a ९ Q i
+& wry
+Q — OF) Fj “untitled - Notepad - o x
+Oo File Edit Format View Help
+~~ All Unread, जीता लिंक करें
+लि बधाई हो! आपने इनाम जीता है। अभी लिंक पर क्लिक करें। .
+©
+x
+‘ Messag|
+220 =
+ms
+_e a Locket
+ft ing Tesseract OCR.
+tt 6 Archiv
+Ragh
+way
+Akash
+ey Intersh
+e 6thSe
+2 ही
+Kavita
+12) 2 a 12:12 pm w
+~Deep PU 10.46 pm ५2
+& Ln 1, Col 25 190% _ Windows (CRLF) UTF-8 ss. नल
++91 80856 08575 (You) 12:07 am
+ऊि w जि data-augmented.csv U @ Type a message u
+
+a | P Type here to search oa aS Mostly clear",English,Spam,,,,,
+2026-09-28 04:55:26,No suspicious phishing pattern detected,test@gmail.com,Congratulations! You won a prize.,English,Spam,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 04:56:15,No suspicious phishing pattern detected,test@gmail.com,आपने इनाम जीता है।,Hindi,Spam,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 04:56:40,No suspicious phishing pattern detected,test@gmail.com,"Aapne prize jeeta hai, link par click karo.",Hinglish,Spam,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 04:57:17,No suspicious phishing pattern detected,test@gmail.com,hello i will meet you tomorrow,English,Ham,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 04:57:35,No suspicious phishing pattern detected,test@gmail.com,cal school chaloge,English,Ham,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 04:57:39,No suspicious phishing pattern detected,test@gmail.com,cal school chaloge,English,Ham,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 04:58:01,No suspicious phishing pattern detected,test@gmail.com,cal  market jana hai,Hinglish,Ham,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 05:23:15,Image,,"¥ © (91) WhatsApp Business x  @ New Tab x + > Ask Gemini = a
+
+€ © 23 web.wwhatsapp.com x & @ Action required ¢
+B WhatsApp : & Ragh Vendra (B Addtolist न a ९ Q i
+& wry
+Q — OF) Fj “untitled - Notepad - o x
+Oo File Edit Format View Help
+~~ All Unread, जीता लिंक करें
+लि बधाई हो! आपने इनाम जीता है। अभी लिंक पर क्लिक करें। .
+©
+x
+‘ Messag|
+220 =
+ms
+_e a Locket
+ft ing Tesseract OCR.
+tt 6 Archiv
+Ragh
+way
+Akash
+ey Intersh
+e 6thSe
+2 ही
+Kavita
+12) 2 a 12:12 pm w
+~Deep PU 10.46 pm ५2
+& Ln 1, Col 25 190% _ Windows (CRLF) UTF-8 ss. नल
++91 80856 08575 (You) 12:07 am
+ऊि w जि data-augmented.csv U @ Type a message u
+
+a | P Type here to search oa aS Mostly clear",English,Spam,No suspicious phishing pattern detected,,,No URL,
+2026-09-28 05:28:36,Image,,"जा “Untitled - Notepad
+File Edit Format View Help
+
+Congratulations! you won 59999. Click https://bit.ly/example
+
+Ln 1, Col 61
+
+‘C Mostly sur
+
+210% Windows (CRLF)
+
+UTF-8",English,Spam,Possible Phishing,Contains a web link; Uses a URL-shortening service,https://bit.ly/example,Malicious,"URL: https://bit.ly/example
+Status: Malicious
+Malicious: 2
+Suspicious: 0
+Harmless: 62
+Undetected: 28"
+2026-09-28 09:43:48,Possible Phishing,test@gmail.com,Congratulations! Click https://example.com to claim your prizes,English,Spam,"['Contains a web link', 'Suspicious phrase: claim your prize']",h; t; t; p; s; :; /; /; e; x; a; m; p; l; e; .; c; o; m,Safe,"URL: https://example.com
+Status: Safe
+Malicious: 0
+Suspicious: 0
+Harmless: 64
+Undetected: 28",
+2026-09-28 09:44:50,No suspicious phishing pattern detected,test@gmail.com,बधाई हो! आपने एक इनाम जीता है।,Hindi,Spam,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 09:45:30,No suspicious phishing pattern detected,test@gmail.com,aap cal school jayenge,Other,Ham,[],,No URL Found,Message me koi URL nahi mila.,
+2026-09-28 09:48:37,Image,,"जा “Untitled - Notepad
+File Edit Format View Help
+
+Congratulations! you won 59999. Click https://bit.ly/example
+
+Ln 1, Col 61
+
+‘C Mostly sur
+
+210% Windows (CRLF)
+
+UTF-8",English,Spam,Possible Phishing,Contains a web link; Uses a URL-shortening service,https://bit.ly/example,Malicious,"URL: https://bit.ly/example
+Status: Malicious
+Malicious: 2
+Suspicious: 0
+Harmless: 62
+Undetected: 28"

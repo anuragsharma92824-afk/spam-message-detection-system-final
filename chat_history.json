@@ -1,0 +1,18 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "⚠️ OpenAI API quota/credits available nahi hain.\n\nAPI key sahi hai, lekin API account me credits check karo."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "hello"
+    }
+  ]
+]
