@@ -147,6 +147,7 @@ Spam Message Detection System/
 ├── Spam Detector.spec
 │
 └── README.md
+''''
 
 ▶️ How to Run
 1. Install Python
@@ -162,6 +163,7 @@ Do not upload the .env file to GitHub.
 
 4. Run the Application
 python main.py
+''''
 
 ## 📸 Screenshots
 
