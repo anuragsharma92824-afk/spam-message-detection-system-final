@@ -66,6 +66,69 @@ The system provides additional security analysis including:
 - Image text analysis
 - Security analysis through AI chatbot
 
+  ## 📸 Screenshots
+
+### Main Interface
+
+![Main Inerface](main.png)
+
+### Spam Detection
+
+![Spam Detection](spam.png)
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Graph Visualization
+
+![Graph Visualization](graph.png)
+
+### Message History
+
+![Message History](history.png)
+
+### Settings
+
+![Settings](setting.png)
+
+### Language Detection
+
+![Language Detection](language.png)
+
+### Hindi Detection
+
+![Hindi Detection](hindi.png)
+
+### Hindi Confidence
+
+![Hindi Confidence](hindi_co.png)
+
+### Hindi Data Analysis
+
+![Hindi Data Analysis](hindi_da.png)
+
+### Hinglish Detection
+
+![Hinglish Detection](hinglish.png)
+
+### English Confidence
+
+![English Confidence](english_co.png)
+
+### English Data Analysis
+
+![English Data Analysis](english_data.png)
+
+### AI Chatbot
+
+![AI Chatbot](ai_chatbot.png)
+
+### Image Detection
+
+![Image Detection](image.png)
+
+
 ## 🖼️ Image Detection
 
 The application can analyze text present in images using OCR.
@@ -128,23 +191,41 @@ The application provides a Tkinter-based graphical user interface with:
 Spam Message Detection System/
 │
 ├── main.py
+
 ├── ai_chatbot.py
+
 ├── config.py
+
 ├── dashboard.py
+
 ├── dataset.py
+
 ├── graph.py
+
+
 ├── hindi_model.py
 ├── history.py
+
 ├── image_detector.py
+
 ├── language_detector.py
+
 ├── model.py
+
 ├── phishing.py
+
 ├── url_checker.py
+
+
 │
 ├── hindi_spam.csv
+
 ├── SMSSpamCollection
+
+
 │
 ├── Spam Detector.spec
+
 │
 └── README.md
 ''''
@@ -166,67 +247,6 @@ python main.py
 
 ''''
 
-## 📸 Screenshots
-
-### Main Interface
-
-![Main Interface](main.png)
-
-### Spam Detection
-
-![Spam Detection](spam.png)
-
-### Dashboard
-
-![Dashboard](dashboard.png)
-
-### Graph Visualization
-
-![Graph Visualization](graph.png)
-
-### Message History
-
-![Message History](history.png)
-
-### Settings
-
-![Settings](setting.png)
-
-### Language Detection
-
-![Language Detection](language.png)
-
-### Hindi Detection
-
-![Hindi Detection](hindi.png)
-
-### Hindi Confidence
-
-![Hindi Confidence](hindi_co.png)
-
-### Hindi Data Analysis
-
-![Hindi Data Analysis](hindi_da.png)
-
-### Hinglish Detection
-
-![Hinglish Detection](hinglish.png)
-
-### English Confidence
-
-![English Confidence](english_co.png)
-
-### English Data Analysis
-
-![English Data Analysis](english_data.png)
-
-### AI Chatbot
-
-![AI Chatbot](ai_chatbot.png)
-
-### Image Detection
-
-![Image Detection](image.png)
 
 🎯 Project Objective
 The main objective of this project is to develop a user-friendly spam message detection system that combines machine learning with additional security and analysis features such as phishing detection, URL analysis, image text detection, multilingual support, and AI-assisted analysis.
