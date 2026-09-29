@@ -163,53 +163,69 @@ Do not upload the .env file to GitHub.
 
 4. Run the Application
 python main.py
+
 ''''
 
 ## 📸 Screenshots
 
 ### Main Interface
+
 ![Main Interface](main.png)
 
 ### Spam Detection
+
 ![Spam Detection](spam.png)
 
 ### Dashboard
+
 ![Dashboard](dashboard.png)
 
 ### Graph Visualization
+
 ![Graph Visualization](graph.png)
 
 ### Message History
+
 ![Message History](history.png)
 
 ### Settings
+
 ![Settings](setting.png)
 
 ### Language Detection
+
 ![Language Detection](language.png)
 
 ### Hindi Detection
+
 ![Hindi Detection](hindi.png)
 
 ### Hindi Confidence
+
 ![Hindi Confidence](hindi_co.png)
 
 ### Hindi Data Analysis
+
 ![Hindi Data Analysis](hindi_da.png)
 
 ### Hinglish Detection
+
 ![Hinglish Detection](hinglish.png)
 
 ### English Confidence
+
 ![English Confidence](english_co.png)
 
 ### English Data Analysis
+
 ![English Data Analysis](english_data.png)
 
 ### AI Chatbot
+
 ![AI Chatbot](ai_chatbot.png)
 
 ### Image Detection
+
 ![Image Detection](image.png)
 
 🎯 Project Objective
