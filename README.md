@@ -192,41 +192,22 @@ The application provides a Tkinter-based graphical user interface with:
 Spam Message Detection System/
 │
 ├── main.py
-
 ├── ai_chatbot.py
-
 ├── config.py
-
 ├── dashboard.py
-
 ├── dataset.py
-
 ├── graph.py
-
-
 ├── hindi_model.py
 ├── history.py
-
 ├── image_detector.py
-
 ├── language_detector.py
-
 ├── model.py
-
 ├── phishing.py
-
 ├── url_checker.py
-
-
-│
 ├── hindi_spam.csv
-
 ├── SMSSpamCollection
-
-
 │
 ├── Spam Detector.spec
-
 │
 └── README.md
 ''''
