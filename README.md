@@ -66,7 +66,63 @@ The system provides additional security analysis including:
 - Image text analysis
 - Security analysis through AI chatbot
 
-  ## 📸 Screenshots
+
+## 🖼️ Image Detection
+
+The application can analyze text present in images using OCR.
+
+This feature can be used to extract and analyze text from screenshots or other images for spam and security analysis.
+
+## 🌐 URL and Phishing Detection
+
+The system analyzes URLs and checks for potentially suspicious or phishing-related links.
+
+It can also use VirusTotal-based URL checking for additional security analysis.
+
+## 🤖 AI Chatbot
+
+The application includes an integrated AI chatbot that can provide additional analysis of messages and security-related information.
+
+The chatbot can use the application's analysis results, including:
+
+- Spam/Ham classification
+- Language detection
+- Phishing detection
+- URL analysis
+- Security information
+
+> API keys should be stored securely in a .env file and should never be uploaded to GitHub.
+
+## 📊 Dashboard
+
+The dashboard provides information such as:
+
+- Spam count
+- Ham count
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+- Graphical analysis
+
+## 📜 Message History
+
+The application maintains message analysis history so previously analyzed messages and their results can be reviewed.
+
+## 🎨 User Interface
+
+The application provides a Tkinter-based graphical user interface with:
+
+- Main dashboard
+- Dark mode
+- Settings
+- Live digital clock
+- Voice output
+- Analysis pages
+- History
+- Graphs
+- AI chatbot
+    ## 📸 Screenshots
 
 ### Main Interface
 
@@ -129,61 +185,6 @@ The system provides additional security analysis including:
 ![Image Detection](image.png)
 
 
-## 🖼️ Image Detection
-
-The application can analyze text present in images using OCR.
-
-This feature can be used to extract and analyze text from screenshots or other images for spam and security analysis.
-
-## 🌐 URL and Phishing Detection
-
-The system analyzes URLs and checks for potentially suspicious or phishing-related links.
-
-It can also use VirusTotal-based URL checking for additional security analysis.
-
-## 🤖 AI Chatbot
-
-The application includes an integrated AI chatbot that can provide additional analysis of messages and security-related information.
-
-The chatbot can use the application's analysis results, including:
-
-- Spam/Ham classification
-- Language detection
-- Phishing detection
-- URL analysis
-- Security information
-
-> API keys should be stored securely in a .env file and should never be uploaded to GitHub.
-
-## 📊 Dashboard
-
-The dashboard provides information such as:
-
-- Spam count
-- Ham count
-- Precision
-- Recall
-- F1-Score
-- Confusion Matrix
-- Graphical analysis
-
-## 📜 Message History
-
-The application maintains message analysis history so previously analyzed messages and their results can be reviewed.
-
-## 🎨 User Interface
-
-The application provides a Tkinter-based graphical user interface with:
-
-- Main dashboard
-- Dark mode
-- Settings
-- Live digital clock
-- Voice output
-- Analysis pages
-- History
-- Graphs
-- AI chatbot
 
 ## 📁 Project Structure
 
