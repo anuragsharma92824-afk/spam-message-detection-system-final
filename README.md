@@ -208,6 +208,7 @@ python main.py
 
 ### AI Chatbot
 ![AI Chatbot](ai_chatbot.png)
+
 ### Image Detection
 ![Image Detection](image.png)
 
